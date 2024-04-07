@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">About Group Six By Moses</string>
+    <string name="name">Group6</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="boi"> Hi, This is Troy Group App
+     \n \ni love programming with Kotlin.
+    \n \nThe kind of programming is called Kotlin.
+    \n\n Kotlin to an existing app
+    Android Studio provides full support for Kotlin, enabling you to add Kotlin files to your existing project and convert Java language code to Kotlin. You can then use all of Android Studio Create a project.
+
+    \n\n static Because FlowableOnSubscribe is eligible for SAM conversion, function calls of this method from Kotlin look like this:
+
+    \n\nWhy is Android development Kotlin-first?
+    \n\nWe reviewed feedback that came directly from developers at conferences, our Customer Advisory Board (CAB), Google Developer Experts (GDE), and through our developer research. Many developers already enjoy using Kotlin, and the request for more Kotlin support was clear. Here’s what developers appreciate about writing in Kotlin:
+    \n\n•	Expressive and concise: You can do more with less. Express your ideas and reduce the amount of boilerplate code. 67% of professional developers who use Kotlin say Kotlin has increased their productivity.
+    \n\n•	Safer code: Kotlin has many language features to help you avoid common programming mistakes such as null pointer exceptions. Android apps that contain Kotlin code are 20% less likely to crash.
+    \n\n•	Interoperable: Call Java-based code from Kotlin, or call Kotlin from Java-based code. Kotlin is 100% interoperable with the Java programming language, so you can have as little or as much of Kotlin in your project as you want.
+    \n\n•	Structured Concurrency: Kotlin coroutines make asynchronous code as easy to work with as blocking code. Coroutines dramatically simplify background task management for everything from network calls to accessing local data.
+    </string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
+</resources>
